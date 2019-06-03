@@ -1,0 +1,4 @@
+name:Site API
+type:API module
+description:  'set a site with API key,JASON representation of a node type page.uasing the API  key.
+core:8.X
